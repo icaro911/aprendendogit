@@ -28,12 +28,12 @@ https://git-scm.com/download
 - `git log`     // visualiza os pontos na linha do tmepo / commit
 - `git status`  // informa o estado das alterações do nosso projeto
 - `git show`    // apresenta determinado ponto da história
-- 'git branch' // gerencia novas linhas do tempo
-- 'git merge' // unir linhas do tempo
-- 'git push' // envia as alterações locais para o repositório remoto
-- 'git clone' // clonar um projeto / repositório
-- 'git checkout' // manipula as linhas do tempo
-- 'git pull' // atualiza o local com o remoto
+- `git branch` // gerencia novas linhas do tempo
+- `git merge` // unir linhas do tempo
+- `git push` // envia as alterações locais para o repositório remoto
+- `git clone` // clonar um projeto / repositório
+- `git checkout` // manipula as linhas do tempo
+- `git pull` // atualiza o local com o remoto
 
 
 
