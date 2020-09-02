@@ -20,7 +20,7 @@ https://git-scm.com/download
 - [ ] Você precisa resolver um conflito.
 - [ ] Antes de enviar a resolução, precisamos atualizar o projeto local.
 - [ ] Você quer voltar o arquivo para um determinado momento (log e checkout -- nome do arquivo)
-
+- [ ] Recuperar arquivo deletado (sem estar add, usando o checkout --)
 
 - `git init`    // inicia uma linha do tempo
 - `git add`     // adiciona ou atualiza mudanças para irem para a linha do tempo
@@ -29,6 +29,9 @@ https://git-scm.com/download
 - `git status`  // informa o estado das alterações do nosso projeto
 - `git show`    // apresenta determinado ponto da história
 - 'git branch' // gerencia novas linhas do tempo
+- 'git merge' // unir linhas do tempo
+- 'git push' // envia as alterações locais para o repositório remoto
+- 'git clone' // clonar um projeto / repositório
 - 'git checkout' // manipula as linhas do tempo
 - 'git pull' // atualiza o local com o remoto
 
