@@ -16,6 +16,10 @@ https://git-scm.com/download
 
 - [ ] Você quer colocar seu projeto na nuvem
 
+- [ ] Você vai pegar um projeto já iniciado, para trabalhar com time.
+- [ ] Você precisa resolver um conflito.
+- [ ] Antes de enviar a resolução, precisamos atualizar o projeto local.
+- [ ] Você quer voltar o arquivo para um determinado momento (log e checkout -- nome do arquivo)
 
 
 - `git init`    // inicia uma linha do tempo
@@ -24,6 +28,9 @@ https://git-scm.com/download
 - `git log`     // visualiza os pontos na linha do tmepo / commit
 - `git status`  // informa o estado das alterações do nosso projeto
 - `git show`    // apresenta determinado ponto da história
+- 'git branch' // gerencia novas linhas do tempo
+- 'git checkout' // manipula as linhas do tempo
+- 'git pull' // atualiza o local com o remoto
 
 
 
